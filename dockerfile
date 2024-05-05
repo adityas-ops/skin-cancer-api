@@ -1,3 +1,4 @@
 FROM tiangolo/uvicorn-gunicorn-fastapi:python3.9
 
-COPY ./ml_api
+COPY ./app
+# COPY ./requirements.txt /app/requirements.txt
