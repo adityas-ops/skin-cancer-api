@@ -41,7 +41,6 @@ opt-einsum
 optree
 orjson
 packaging
-pickle5
 pillow
 platformdirs
 protobuf
